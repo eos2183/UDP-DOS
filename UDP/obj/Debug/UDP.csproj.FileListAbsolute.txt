@@ -1,0 +1,6 @@
+C:\Users\suppo\Desktop\작업물\UDP DoS\UDP\bin\Debug\UDP.exe
+C:\Users\suppo\Desktop\작업물\UDP DoS\UDP\bin\Debug\UDP.pdb
+C:\Users\suppo\Desktop\작업물\UDP DoS\UDP\obj\Debug\UDP.csproj.AssemblyReference.cache
+C:\Users\suppo\Desktop\작업물\UDP DoS\UDP\obj\Debug\UDP.csproj.CoreCompileInputs.cache
+C:\Users\suppo\Desktop\작업물\UDP DoS\UDP\obj\Debug\UDP.exe
+C:\Users\suppo\Desktop\작업물\UDP DoS\UDP\obj\Debug\UDP.pdb
